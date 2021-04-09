@@ -1,5 +1,5 @@
 function saludar(){
-    alert("Hola a todos los lectores")
+    swal("Hola a todos los lectores")
 }
 
 var Nombre = document.getElementById('Nombre');

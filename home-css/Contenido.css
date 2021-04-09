@@ -1,4 +1,6 @@
-
+.colordoc{
+    background-color: rgba(192, 175, 223, 0.575);
+}
 
 h1{
     color:rgb(168, 75, 255);
@@ -25,8 +27,14 @@ h3{
     font-family:'Imbue', serif; 
     font-size: 22px; 
     text-align: center;
-    background-color: rgb(193, 248, 193);
-    margin: 0 21px;
+    
+    margin: 0 19px;
+}
+
+.image{
+    margin: 30px;
+    height: 550px;
+    width: 550px;
 }
 
 h2{
@@ -47,7 +55,6 @@ h4{
      letter-spacing: 1px;
      font-family:'Imbue', serif; 
      font-size: 21px;
-     background-color: seashell;
      margin: 0 21px !important;
 }   
 
